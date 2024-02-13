@@ -1,3 +1,5 @@
 public class StudentDemo {
-
+     public String sayHi(){
+        return "Hii";
+     }
 }
